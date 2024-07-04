@@ -44,6 +44,5 @@ git log
 | content 1 | content 2 |
 | content 3 | content 4 |
 | content 5 | content 6 |
-dadad
 
-HandleB đã edit
+HandleB 
