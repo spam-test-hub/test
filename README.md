@@ -45,4 +45,4 @@ git log
 | content 3 | content 4 |
 | content 5 | content 6 |
 
-HandleA đã edit
+HandleB đã edit
